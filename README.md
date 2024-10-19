@@ -1,4 +1,4 @@
-# basicio_and_regularexpressions
+# HA 01: Basic I/O and Regular Expressions
 
 ## Role Distribution and Screencast Link
 <!-- TODO -->
@@ -32,4 +32,4 @@ And a text is correctly displayed inside the text file
 
 
 ## Requirements
-Please refer [requirements.txt](./requirements.txt) or [pom.xml](./pom.xml)
+Please refer [requirements.md](./requirements.md)
