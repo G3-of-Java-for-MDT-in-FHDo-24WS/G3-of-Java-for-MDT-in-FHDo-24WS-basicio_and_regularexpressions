@@ -7,6 +7,7 @@
 
 ## Dependencies
 `Format: groupId:artifactId:version`
+
 org.junit.jupiter:junit-jupiter-api:5.11.0
 org.junit.jupiter:junit-jupiter-params:5.11.0
 io.github.cdimascio:dotenv-java:3.0.0
